@@ -1,0 +1,306 @@
+.division1{
+	display: flex;
+	height: 636px;
+}
+.division1 div{
+	font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.division1 div.apple{
+	background-position: center;
+	background-image: url("4.png");
+	margin-right: 10px;
+	width: 50%;
+}
+.division1 div.apple h2{
+	color: black;
+	font-size: 40px;
+	display: flex;
+	justify-content: center;
+	margin-bottom: 6px;
+}
+.division1 div.apple a{
+	font-size: 18px;
+	text-decoration: none;
+	display: flex;
+	justify-content: center;
+	margin-top: 0px;
+}
+.division1 div.apple a:hover{
+	text-decoration: underline;
+}
+.division1 div.watch{
+	background-position: center;
+	width: 50%;
+	background-image: url("5.png");
+	margin-top: 0px;
+}
+
+.division1 div.watch h2{
+	color: black;
+	font-size: 40px;
+	display: flex;
+	justify-content: center;
+	margin-bottom: 0px;
+}
+
+.division1 div.watch h3{
+	color: crimson;
+	font-size: 17px;
+	display: flex;
+	justify-content: center;
+	margin-top: 0px;
+	margin-bottom: 6px;
+}
+div.info-list-watch ul{
+	list-style: none;
+	justify-content: center;
+	display: flex;
+	justify-content: center;
+	margin: 0px;
+}
+div.info-list-watch li{
+	padding-left: 20px;
+	padding-right: 20px;
+	font-size: 18px;
+}
+div.info-list-watch li a{
+	text-decoration: none;
+}
+div.info-list-watch li a:hover{
+	text-decoration: underline;
+}
+.division2{
+	display: flex;
+	height: 636px;
+	margin-top: 10px;
+}
+.division2 div{
+	font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.division2 div.airpods{
+	background-position: center;
+	background-image: url("6.png");
+	margin-right: 10px;
+	width: 50%;
+}
+.division2 div.airpods h2{
+	color: black;
+	font-size: 40px;
+	display: flex;
+	justify-content: center;
+	margin-bottom: 0px;
+}
+
+.division2 div.airpods p{
+	margin: 0px;
+	color: black;
+	display: flex;
+	justify-content: center;
+	font-size: 21px;
+	font-style: normal;
+	font-weight: 400px;
+}
+
+div.info-list-airpod ul{
+	list-style: none;
+	justify-content: center;
+	display: flex;
+	justify-content: center;
+	margin-top: 6px;
+}
+div.info-list-airpod li{
+	padding-left: 20px;
+	padding-right: 20px;
+	font-size: 18px;
+}
+div.info-list-airpod li a{
+	text-decoration: none;
+}
+div.info-list-airpod li a:hover{
+	text-decoration: underline;
+}	
+.division2 div.tv{
+	background-position: center;
+	background-image: url("7.png");
+	margin-right: 10px;
+	width: 50%;
+}
+.division2 div.tv h2{
+	color: white;
+	font-size: 40px;
+	display: flex;
+	justify-content: center;
+	margin-bottom: 6px;
+}
+.division2 div.tv span{
+	color: white;
+	display: flex;
+	justify-content: center;
+	font-size: 56px;
+	padding-top: 360px;
+	margin-bottom: 0px;
+}
+.division2 div.tv p{
+	margin-top: 0px;
+	color: white;
+	display: flex;
+	justify-content: center;
+	font-size: 21px;
+	font-style: normal;
+	font-weight: 400px;
+}
+div.tv a{
+	text-decoration: none;
+	display: flex;
+	justify-content: center;
+}
+div.tv a:hover{
+	text-decoration: underline;
+}	
+
+.division3{
+	display: flex;
+	height: 636px;
+	margin-top: 10px;
+}
+.division3 div{
+	font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	background-color: silver;
+}
+.division3 div.mac-ipod{
+	background-position: center;
+	background-image: url("8.png");
+	margin-right: 10px;
+	width: 50%;
+	height: 100%;
+}
+.division3 div.mac-ipod h2{
+	color: black;
+	font-size: 40px;
+	display: flex;
+	justify-content: center;
+	margin-bottom: 0px;
+}
+
+div.mac-ipod a{
+	text-decoration: none;
+	justify-content: center;
+	display: flex;
+}
+div.mac-ipod a:hover{
+	text-decoration: underline;
+}	
+.division3 div.installments{
+	background-position: center;
+	background-image: url("9.png");
+	margin-right: 10px;
+	width: 50%;
+}
+.division3 div.installments h2{
+	color: black;
+	font-size: 40px;
+	display: flex;
+	justify-content: center;
+	margin-bottom: 6px;
+}
+.division3 div.installments p{
+	margin-top: 0px;
+	color: black;
+	display: flex;
+	justify-content: center;
+	font-size: 21px;
+	font-style: normal;
+	font-weight: 400px;
+}
+div.installments a{
+	text-decoration: none;
+	display: flex;
+	justify-content: center;
+}
+div.installments a:hover{
+	text-decoration: underline;
+}	
+footer{
+	background-color: #f5f5f7;
+}
+footer .finfo {
+	background-color: #f5f5f7;
+	margin-left: 200px;
+	margin-right: 200px;
+	padding-left: 22px;
+	padding-right: 22px;
+	margin-bottom: 0px;
+	margin-top: 10px;
+}
+
+footer .finfo .fsection{
+	border-bottom-color: rgb(210, 210, 215);
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	padding-top: 7px;
+	padding-bottom: 7px;
+}
+
+footer .finfo .fsection p{
+	color: rgb(134, 134, 139);
+	font-size: 12px;
+	font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	margin-bottom: 20px;
+}
+
+footer nav.footerbar{
+	display: flex;
+	background-color: #f5f5f7;
+	margin-left: 200px;
+	margin-right: 200px;
+	padding-left: 22px;
+	padding-right: 22px;
+	margin-bottom: 0px;
+	margin-top: 10px;
+}
+footer .footerbar div{
+	text-align: left;
+	font-size-adjust: 100%;
+	width: 300px;
+}
+footer .footerbar ul{
+	list-style: none;
+	font-size: 12px;
+	font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Apple Legacy Chevron","Helvetica Neue","Helvetica","Arial",sans-serif;
+	margin-bottom: 0px;
+	color: rgb(134, 134, 139);
+}
+footer .footerbar ul li{
+	margin-bottom: 10px;
+}
+footer .footerbar ul li h3{
+	font-size: 12px;
+	color: black;
+}
+footer section.copyright{
+	font-size: 12px;
+	color: rgb(134, 134, 139);
+	margin-left: 200px;
+	margin-right: 200px;
+	padding-left: 22px;
+	padding-right: 22px;
+	margin-bottom: 0px;
+	margin-top: 10px;
+	font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Apple Legacy Chevron","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+footer section.copyright #first{
+	border-bottom-color: rgb(210, 210, 215);
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	padding-top: 7px;
+	padding-bottom: 10px;
+}
+footer section.copyright #first a{
+	text-decoration: none;
+}
+footer section.copyright #first a:hover{
+	text-decoration: underline;
+}
+footer section.copyright #second{
+	padding-top: 10px;
+}
